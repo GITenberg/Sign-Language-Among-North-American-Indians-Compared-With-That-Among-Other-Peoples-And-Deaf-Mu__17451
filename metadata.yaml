@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '7395'
     url: http://www.gutenberg.org/2009/agents/7395
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17451#Sign-Language-Among-North-American-Indians-Compared-With-That-Among-Other-Peoples-And-Deaf-Mu_
 gutenberg_bookshelf:
 - Language Education
 - Native America
